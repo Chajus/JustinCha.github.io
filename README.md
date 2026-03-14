@@ -1,11 +1,12 @@
-Justin Cha Data Analyst Portfolio
+# Justin Cha Data Analyst Portfolio
 
-Welcome to my data analyst portfolio. 
+**Welcome to my data analyst portfolio.**
 
-About Me
+**About Me**
+
 Aspiring Data Analyst specializing in SQL, Tableau, and data visualization.
 
-Projects
+**Projects**
 - Nashville Housing Data Cleaning (SQL & Tableau)
 - Online Retail Cleaning (SQL & Tableau)
 - More projects coming soon
