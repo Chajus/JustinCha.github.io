@@ -8,7 +8,9 @@ Aspiring Data Analyst specializing in SQL, Tableau, and data visualization.
 
 **Projects**
 - Nashville Housing Data Cleaning (SQL & Tableau)
+- Olist Online Retail (SQL & Tableau)
 - Online Retail Cleaning (SQL & Tableau)
+- Customer Segmentation & Spending Insights (SQL & Tableau)
 - More projects coming soon
 
 Contact
